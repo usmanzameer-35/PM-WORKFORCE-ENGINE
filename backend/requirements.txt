@@ -1,0 +1,8 @@
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+pydantic==2.13.5
+SQLAlchemy==2.1.4
+psycopg[binary]==3.3.6
+PuLP==3.3.0
+python-multipart==0.0.32
+openpyxl==3.1.5
